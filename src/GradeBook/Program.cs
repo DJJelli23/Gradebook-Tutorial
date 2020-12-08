@@ -18,7 +18,7 @@ namespace GradeBook
             {
                 result += number;
             }
-            var average = result / grades.Count;
+            result /= grades.Count;
             // var result = numbers[0];
             // result += numbers[1];
             // result += numbers[2];
@@ -27,8 +27,7 @@ namespace GradeBook
 
             // var result = x + y;
 
-            Console.WriteLine(result);
-            Console.WriteLine(average);
+            Console.WriteLine($"The average grade is {result}!");
 
             if(args.Length > 0)
             {
