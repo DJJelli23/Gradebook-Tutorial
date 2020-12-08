@@ -27,7 +27,7 @@ namespace GradeBook
 
             // var result = x + y;
 
-            Console.WriteLine($"The average grade is {result}!");
+            Console.WriteLine($"The average grade is {result:N1}!");// N1 is the amount of decimals spaces after the point.
 
             if(args.Length > 0)
             {
