@@ -98,3 +98,6 @@ D:\Users\dj_je\Documents\GitHub\Gradebook-Tutorial\test\GradeBook.Tests\obj\Debu
 D:\Users\dj_je\Documents\GitHub\Gradebook-Tutorial\test\GradeBook.Tests\obj\Debug\net5.0\ref\GradeBook.Tests.dll
 D:\Users\dj_je\Documents\GitHub\Gradebook-Tutorial\test\GradeBook.Tests\obj\Debug\net5.0\GradeBook.Tests.pdb
 D:\Users\dj_je\Documents\GitHub\Gradebook-Tutorial\test\GradeBook.Tests\obj\Debug\net5.0\GradeBook.Tests.genruntimeconfig.cache
+D:\Users\dj_je\Documents\GitHub\Gradebook-Tutorial\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.exe
+D:\Users\dj_je\Documents\GitHub\Gradebook-Tutorial\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.dll
+D:\Users\dj_je\Documents\GitHub\Gradebook-Tutorial\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.pdb
